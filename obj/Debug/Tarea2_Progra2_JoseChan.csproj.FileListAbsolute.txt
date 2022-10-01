@@ -1,0 +1,8 @@
+C:\RespositorioGit\Tarea 2\Tarea2_Progra2_JoseChan\obj\Debug\Tarea2_Progra2_JoseChan.csproj.AssemblyReference.cache
+C:\RespositorioGit\Tarea 2\Tarea2_Progra2_JoseChan\obj\Debug\Tarea2_Progra2_JoseChan.csproj.SuggestedBindingRedirects.cache
+C:\RespositorioGit\Tarea 2\Tarea2_Progra2_JoseChan\obj\Debug\Tarea2_Progra2_JoseChan.csproj.CoreCompileInputs.cache
+C:\RespositorioGit\Tarea 2\Tarea2_Progra2_JoseChan\bin\Debug\Tarea2_Progra2_JoseChan.exe.config
+C:\RespositorioGit\Tarea 2\Tarea2_Progra2_JoseChan\bin\Debug\Tarea2_Progra2_JoseChan.exe
+C:\RespositorioGit\Tarea 2\Tarea2_Progra2_JoseChan\bin\Debug\Tarea2_Progra2_JoseChan.pdb
+C:\RespositorioGit\Tarea 2\Tarea2_Progra2_JoseChan\obj\Debug\Tarea2_Progra2_JoseChan.exe
+C:\RespositorioGit\Tarea 2\Tarea2_Progra2_JoseChan\obj\Debug\Tarea2_Progra2_JoseChan.pdb
